@@ -1,5 +1,5 @@
 # Health-Insurance Charges Prediction 
-This project invollves predicting indivudual medical insurance charges usiing regressioon techniques. I expplore and ccompare Linear Regression and Random Forest Regressor, including feature engineering, data preprocessing and model evaluation.
+This project invollves predicting individual medical insurance charges usiing regressioon techniques. I expplore and ccompare Linear Regression and Random Forest Regressor, including feature engineering, data preprocessing and model evaluation.
 
 <img width="1200" height="800" alt="Health Insurance" src="https://github.com/user-attachments/assets/0fd0bce9-7eb4-45a7-b5a8-e09b8cd30a4c" />
 
